@@ -1,0 +1,8 @@
+{
+  "name": "Toggle imwheel",
+  "description": "Shows the status of imwheel, if its running or not",
+  "uuid": "toggleimwheel@wesleyelliott.co.za",
+  "shell-version": [
+    "3.34"
+  ]
+}
